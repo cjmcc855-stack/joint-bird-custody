@@ -1,0 +1,6 @@
+# tokens live here: never commit
+config.json
+# the live town (positions, items, events): lives on the server only
+data/
+__pycache__/
+*.pyc

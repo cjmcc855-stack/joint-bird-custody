@@ -1,0 +1,327 @@
+{
+ "version": 1,
+ "town": "a small mountain town under Mount Shasta, CA",
+ "weather_spot": {
+  "lat": 41.31,
+  "lon": -122.31
+ },
+ "places": {
+  "nest": {
+   "name": "Bolt's nest",
+   "description": "Your nest high in a dead pine. Your collection is stashed here.",
+   "features": [
+    "tree",
+    "home"
+   ],
+   "ambient": [
+    "wind rocks the branch",
+    "a squirrel eyes your collection",
+    "nothing happens, it's cozy"
+   ],
+   "home_of": "bolt"
+  },
+  "junkyard": {
+   "name": "the junkyard",
+   "description": "Rows of stripped cars and rusted fenders. A guard dog who mostly sleeps. Shiny things everywhere.",
+   "features": [
+    "scrap",
+    "food_scraps"
+   ],
+   "ambient": [
+    "a tow truck drops off a crunched car",
+    "the guard dog snores",
+    "sun glints off a chrome bumper"
+   ]
+  },
+  "rail_yard": {
+   "name": "the rail yard",
+   "description": "Freight trains roll through a few times a day. Loud, huge, rumbling.",
+   "features": [
+    "rails"
+   ],
+   "ambient": [
+    "a long freight train thunders past",
+    "a train horn echoes off the hills",
+    "the tracks are empty and humming"
+   ]
+  },
+  "creek": {
+   "name": "the river canyon",
+   "description": "A cold fast river down in a canyon. Trains rumble along the tracks beside it. Fish flash in the riffles.",
+   "features": [
+    "water_fish",
+    "river_gravel",
+    "food_natural"
+   ],
+   "ambient": [
+    "a trout jumps",
+    "a fisherman casts a shiny lure",
+    "a freight train rolls along the river"
+   ]
+  },
+  "garage": {
+   "name": "the garage",
+   "description": "An old shop with a busted roll-up door. Smells like oil. Someone left a radio on.",
+   "features": [
+    "workbench"
+   ],
+   "ambient": [
+    "the radio plays an old synth song",
+    "someone revs an engine",
+    "a cat sleeps on a toolbox"
+   ]
+  },
+  "diner_roof": {
+   "name": "the diner roof",
+   "description": "Flat roof over a 24-hour diner. Warm vent, good view of the mountain.",
+   "features": [
+    "food_scraps",
+    "warm_vent"
+   ],
+   "ambient": [
+    "bacon smell drifts up the vent",
+    "a waitress tosses out fries",
+    "clouds wrap the mountain peak"
+   ]
+  },
+  "ambulance_station": {
+   "name": "the ambulance station",
+   "description": "A small-town ambulance station with a busy fleet shop. Big boxy rigs, a toolbox with drawers left open, somebody always under a truck.",
+   "features": [
+    "vehicles"
+   ],
+   "ambient": [
+    "an ambulance rolls out with lights on",
+    "an impact gun rattles in the shop",
+    "a mechanic swears at a stuck bolt"
+   ]
+  },
+  "drift_lot": {
+   "name": "the drift lot",
+   "description": "An empty lot where a white coupe slides sideways in clouds of tire smoke. Little balls of rubber everywhere.",
+   "features": [
+    "vehicles"
+   ],
+   "ambient": [
+    "the white coupe links a long slide",
+    "tire smoke drifts over you",
+    "someone cheers from the fence"
+   ]
+  },
+  "lake": {
+   "name": "the lake",
+   "description": "A calm lake right under the mountain. Fishermen on the bank, lures snagged in the willows, ospreys circling.",
+   "features": [
+    "water_fish",
+    "food_scraps",
+    "food_natural"
+   ],
+   "ambient": [
+    "an osprey dives for a fish",
+    "a fisherman snags a willow and curses",
+    "the mountain reflects perfectly in the water"
+   ]
+  },
+  "shed": {
+   "name": "the shed",
+   "description": "A backyard shed full of scrap steel, a welder, and half-finished projects. Sparks fly when the human's home.",
+   "features": [
+    "workbench",
+    "scrap"
+   ],
+   "ambient": [
+    "the welder buzzes and sparks fly",
+    "a grinder screams",
+    "the shed is quiet and smells like metal"
+   ]
+  },
+  "mountain_trail": {
+   "name": "the mountain trail",
+   "description": "A steep trail up the big snowy mountain. Thin cold air, the top looks far. Tiring to climb.",
+   "features": [
+    "volcanic_rock",
+    "food_natural"
+   ],
+   "ambient": [
+    "a marmot whistles at you",
+    "wind howls through the rocks",
+    "the snowline is right above you"
+   ]
+  },
+  "old_barn": {
+   "name": "the old barn",
+   "description": "Far to the north, a big old barn full of classic cars under dust covers, built by a man who loved cars his whole life. Smells like old leather and motor oil. It feels like someone here is still looking out for you.",
+   "features": [
+    "vehicles"
+   ],
+   "ambient": [
+    "dust floats in a sunbeam over an old Ford",
+    "the barn creaks warmly in the wind",
+    "an old radio in the corner plays soft country"
+   ]
+  },
+  "machine_shop": {
+   "name": "the machine shop",
+   "description": "An old-school machine shop gone quiet. Lathes and a mill under tarps, curls of metal still on the floor. Someone here once cut camshafts by hand.",
+   "features": [
+    "workbench",
+    "scrap"
+   ],
+   "ambient": [
+    "brass curls glitter on the floor",
+    "old blueprints flutter on the wall",
+    "a lathe sits silent, waiting for someone"
+   ]
+  },
+  "summit": {
+   "name": "the summit",
+   "description": "The very top of the snowy mountain. Wind, ice, and you can see the whole world. Hardly anyone makes it here.",
+   "features": [
+    "volcanic_rock"
+   ],
+   "ambient": [
+    "the wind nearly knocks you over",
+    "clouds roll by below you",
+    "the sun hits the ice and everything glitters"
+   ]
+  },
+  "fir": {
+   "name": "the old fir",
+   "description": "A tall red fir at the edge of town, sap-sticky, with a view over every roof. Spike's roost.",
+   "features": [
+    "tree",
+    "home",
+    "food_natural"
+   ],
+   "home_of": "spike",
+   "ambient": [
+    "a chickaree steals from the cone pile",
+    "sap glows amber in the sun",
+    "wind sways the whole tree"
+   ]
+  }
+ },
+ "aliases": {
+  "river": "creek",
+  "canyon": "creek",
+  "stream": "creek",
+  "diner": "diner_roof",
+  "roof": "diner_roof",
+  "barn": "old_barn",
+  "trail": "mountain_trail",
+  "mountain": "mountain_trail",
+  "peak": "summit",
+  "top": "summit",
+  "ambulance": "ambulance_station",
+  "station": "ambulance_station",
+  "machine": "machine_shop",
+  "workshop": "shed",
+  "tracks": "rail_yard",
+  "train": "rail_yard",
+  "rail": "rail_yard",
+  "drift": "drift_lot",
+  "lot": "drift_lot",
+  "junk": "junkyard",
+  "pond": "lake",
+  "river_canyon": "creek",
+  "river canyon": "creek",
+  "old fir": "fir",
+  "roost": "fir",
+  "railyard": "rail_yard",
+  "junk yard": "junkyard"
+ },
+ "travel": {
+  "summit": {
+   "only_from": [
+    "mountain_trail"
+   ],
+   "closed_in": [
+    "thunderstorm"
+   ]
+  }
+ },
+ "season_ambient": {
+  "fall": {
+   "mountain_trail": [
+    "golden aspen leaves skitter across the trail",
+    "the first dusting of snow sits on the rocks"
+   ],
+   "lake": [
+    "the water is glassy and cold"
+   ],
+   "creek": [
+    "leaves swirl in the eddies"
+   ],
+   "nest": [
+    "the pine needles smell like cold"
+   ]
+  },
+  "winter": {
+   "mountain_trail": [
+    "deep snow buries the trail",
+    "everything is silent under the snow"
+   ],
+   "summit": [
+    "the ice is thick and blue"
+   ],
+   "lake": [
+    "thin ice creeps out from the shore"
+   ],
+   "creek": [
+    "ice crusts the rocks at the edges"
+   ],
+   "nest": [
+    "frost coats your nest"
+   ]
+  },
+  "spring": {
+   "mountain_trail": [
+    "snowmelt trickles everywhere"
+   ],
+   "creek": [
+    "the river is high and loud with snowmelt"
+   ],
+   "lake": [
+    "the lake is brimming with snowmelt"
+   ]
+  },
+  "summer": {
+   "mountain_trail": [
+    "wildflowers carpet the meadow"
+   ],
+   "lake": [
+    "dragonflies zip over the water"
+   ],
+   "summit": [
+    "the snow has shrunk back to the high ice"
+   ]
+  }
+ },
+ "marmots": {
+  "awake_months": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "places": [
+   "mountain_trail",
+   "summit"
+  ],
+  "asleep_line": "the boulder field is silent; the marmots are asleep in their burrows for the winter"
+ },
+ "features": {
+  "tree": "somewhere to perch and roost",
+  "home": "a creature's home",
+  "food_natural": "wild food: seeds, berries, bugs",
+  "food_scraps": "human food scraps",
+  "water_fish": "water with fish in it",
+  "river_gravel": "gravel bars to sift for gems",
+  "volcanic_rock": "volcanic rock to dig in",
+  "workbench": "tools and a bench for building",
+  "scrap": "loose junk and metal",
+  "rails": "train tracks (pennies get flattened here)",
+  "warm_vent": "a warm spot",
+  "vehicles": "cars and trucks"
+ }
+}

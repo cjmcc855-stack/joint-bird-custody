@@ -1,0 +1,11 @@
+{
+  "bind": "127.0.0.1",
+  "port": 8650,
+  "data_dir": "data",
+  "test_mode": false,
+  "log_requests": false,
+  "creatures": {
+    "bolt":  {"name": "Bolt",  "kind": "crow",          "owner": "Caelan",  "token": "CHANGE-ME-32+-random-characters-for-bolt"},
+    "spike": {"name": "Spike", "kind": "Steller's jay", "owner": "Elliott", "token": "CHANGE-ME-32+-random-characters-for-spike"}
+  }
+}
